@@ -1,2 +1,2 @@
-# astr-119-hw-4
+# astr-119
 Bisection root finding 
